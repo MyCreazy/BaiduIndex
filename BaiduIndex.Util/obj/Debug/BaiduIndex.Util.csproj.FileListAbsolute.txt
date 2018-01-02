@@ -1,0 +1,5 @@
+F:\phicommwork\Develop\csharpprogram\BaiduIndex\BaiduIndex\BaiduIndex.Util\bin\Debug\BaiduIndex.Util.dll
+F:\phicommwork\Develop\csharpprogram\BaiduIndex\BaiduIndex\BaiduIndex.Util\bin\Debug\BaiduIndex.Util.pdb
+F:\phicommwork\Develop\csharpprogram\BaiduIndex\BaiduIndex\BaiduIndex.Util\obj\Debug\BaiduIndex.Util.csprojResolveAssemblyReference.cache
+F:\phicommwork\Develop\csharpprogram\BaiduIndex\BaiduIndex\BaiduIndex.Util\obj\Debug\BaiduIndex.Util.dll
+F:\phicommwork\Develop\csharpprogram\BaiduIndex\BaiduIndex\BaiduIndex.Util\obj\Debug\BaiduIndex.Util.pdb
