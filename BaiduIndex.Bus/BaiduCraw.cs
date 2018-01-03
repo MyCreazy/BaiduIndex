@@ -37,7 +37,7 @@ namespace BaiduIndex.Bus
             {
                 List<string> keywordsList = new List<string>();
                 ////从文本读取关键词
-                using (System.IO.StreamReader sr = new System.IO.StreamReader("F:\\phicommwork\\斐讯大数据文档\\游戏画像\\百度指数\\gamekeyword.txt", Encoding.GetEncoding("GB2312")))
+                using (System.IO.StreamReader sr = new System.IO.StreamReader("F:\\amekeyword.txt", Encoding.GetEncoding("GB2312")))
                 {
                     string str;
                     while ((str = sr.ReadLine()) != null)
@@ -100,7 +100,7 @@ namespace BaiduIndex.Bus
                         }
 
                         ////追加到txt
-                        WriteTxt.WriteAppendTxt("F:\\phicommwork\\斐讯大数据文档\\游戏画像\\百度指数\\baidu.txt", content);
+                        WriteTxt.WriteAppendTxt("F:\\\baidu.txt", content);
                         MessagePipe.ExcuteWriteMessageEvent("关键词【" + keyword + "】指数数据添加" + content, 0);
                     }
                     catch (Exception ex)
